@@ -1,19 +1,24 @@
-## Hi there 👋
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/username&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
-<!--
-**isnow890/isnow890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I’m isnow890
 
-Here are some ideas to get you started:
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200§ion=header&text=Welcome%20to%20My%20GitHub&fontSize=50)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+I’m an IT professional working in the IT team at a hospital in Seoul, aspiring to grow into a highly skilled senior developer. I lead **yidaemullyu**, a team dedicated to exploring and building meaningful projects outside my daily work.
+
+### My Tech Stack
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### GitHub Stats
+![isnow890's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isnow890&show_icons=true&theme=dracula&hide_border=true)
+
+### Contact Me
+- **Email**: [isnow890@gmail.com](mailto:isnow890@gmail.com)
+- I’m open to discussions about technology, collaboration, or anything related to my work. Feel free to reach out.
+- Take a look at my pinned repositories below for a glimpse into my public projects.
+
+![Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/isnow890&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)
