@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 <!--
 **isnow890/isnow890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
