@@ -12,10 +12,10 @@ I’m an IT professional working in the IT team at a hospital in Seoul, aspiring
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
+<!--
 ### GitHub Stats
 ![isnow890's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isnow890&show_icons=true&theme=dracula&hide_border=true)
-
+-->
 ### Contact Me
 - **Email**: [isnow890@gmail.com](mailto:isnow890@gmail.com)
 - I’m open to discussions about technology, collaboration, or anything related to my work. Feel free to reach out.
