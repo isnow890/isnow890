@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200§ion=header&text=Welcome%20to%20My%20GitHub&fontSize=50)
 
 ### About Me
-I’m an IT professional working in the IT team at a hospital in Seoul. I lead **yidaemullyu**("https://isnow.space"), a team focused on exploring and building meaningful projects outside my daily work, where we create innovative side projects.
+I’m an IT professional working in the IT team at a hospital in Seoul. I lead [yidaemullyu](https://isnow.space), a team focused on exploring and building meaningful projects outside my daily work, where we create innovative side projects.
 
 ### The Stack
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
