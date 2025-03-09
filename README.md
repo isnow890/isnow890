@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200§ion=header&text=Welcome%20to%20My%20GitHub&fontSize=50)
 
 ### About Me
-I’m an IT professional working in the IT team at a hospital in Seoul. I lead [yidaemullyu](https://isnow.space), a team focused on exploring and building meaningful projects outside my daily work, where we create innovative side projects. I’m an 11-year veteran developer with WPF and Oracle, though I use them at work with the legacy .NET Framework 4.6.1 in a rather unexciting way.
+I’m an IT professional working in the IT team at a hospital in Seoul. I lead [yidaemullyu](https://isnow.space), a team focused on exploring and building meaningful projects outside my daily work, where we create innovative side projects.
 
 
 ### Contact Me
