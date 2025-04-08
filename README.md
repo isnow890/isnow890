@@ -12,3 +12,5 @@ I’m an IT professional working in the IT team at a hospital in Seoul. I lead [
 - Take a look at my pinned repositories below for a glimpse into my public projects.
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=isnow890.isnow890)
+
+![Profile views](https://komarev.com/ghpvc/?username=isnow890&color=brightgreen&style=flat)
