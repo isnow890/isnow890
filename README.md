@@ -2,13 +2,16 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200§ion=header&text=Welcome%20to%20My%20GitHub&fontSize=50)
 
-### About Me
-I’m an IT professional working in the IT team at a hospital in Seoul. I lead [yidaemullyu](https://isnow.space), a team focused on exploring and building meaningful projects outside my daily work, where we create innovative side projects.
+I build software at the intersection of healthcare IT, legacy enterprise systems, and modern AI-driven products.
 
+With 10+ years of experience in hospital systems such as EMR, HIS, ERP, and laboratory workflows, I care about solving real operational problems and translating complex workflows into reliable software.
 
-### Contact Me
-- **Email**: [isnow890@gmail.com](mailto:isnow890@gmail.com)
-- I’m open to discussions about technology, collaboration, or anything related to my work. Feel free to reach out.
-- Take a look at my pinned repositories below for a glimpse into my public projects.
+Outside of work, I build side projects through **yidaemullyu**, a small team focused on creating practical and meaningful products beyond daily hospital IT work. My recent work includes mobile/web services, MCP tools, and LLM-based workflows built with Flutter, Nuxt, ASP.NET Core, and modern AI tooling.
 
-![Profile views](https://komarev.com/ghpvc/?username=isnow890&color=brightgreen&style=flat)
+## Highlights
+- Grand Prize Winner, 2025 Digital Social Innovation Contest
+- Kakao MCP Player 10 Final Top 3
+- Open-source contributor and MCP tool builder
+
+## Contact
+- isnow890@gmail.com
