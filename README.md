@@ -8,10 +8,5 @@ With 10+ years of experience in hospital systems such as EMR, HIS, ERP, and labo
 
 Outside of work, I build side projects through **yidaemullyu**, a small team focused on creating practical and meaningful products beyond daily hospital IT work. My recent work includes mobile/web services, MCP tools, and LLM-based workflows built with Flutter, Nuxt, ASP.NET Core, and modern AI tooling.
 
-## Highlights
-- Grand Prize Winner, 2025 Digital Social Innovation Contest
-- Kakao MCP Player 10 Final Top 3
-- Open-source contributor and MCP tool builder
-
 ## Contact
 - isnow890@gmail.com
