@@ -1,6 +1,6 @@
 # isnow890
 
-A solo technician who builds impractical projects.
+A solo technician who builds impractical stuff.
 
 12 years in healthcare IT. After hours I build side projects with
 **marsbeaver**, a two-person team.
