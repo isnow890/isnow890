@@ -2,9 +2,9 @@
 
 A solo technician who builds impractical projects.
 
-12 years in healthcare IT — now on the lab medicine (진단검사의학과) EMR
-solution at Ewha Womans University Seoul Hospital. After hours I build side
-projects with **marsbeaver**, a two-person team.
+12 years in healthcare IT — now on the EMR team at Ewha Womans University
+Seoul Hospital. After hours I build side projects with **marsbeaver**,
+a two-person team.
 
 → **[isnow.kr](https://isnow.kr)** — everything in one terminal-style page
 
