@@ -1,4 +1,4 @@
-# isnow890 (양찬우)
+# isnow890
 
 A solo technician who builds impractical projects.
 
