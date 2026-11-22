@@ -2,16 +2,15 @@
 
 A solo technician who builds impractical projects.
 
-12 years in healthcare IT — now on the EMR team at Ewha Womans University
-Seoul Hospital. After hours I build side projects with **marsbeaver**,
-a two-person team.
+12 years in healthcare IT. After hours I build side projects with
+**marsbeaver**, a two-person team.
 
 → **[isnow.kr](https://isnow.kr)** — everything in one terminal-style page
 
 ### Selected
 - **[naver-search-mcp](https://github.com/isnow890/naver-search-mcp)** — Naver Search & DataLab MCP server · 30k users on PlayMCP · 20k npm downloads
 - **박물관사냥꾼 (Museum Hunter)** — find museums your kid will love · NIA Digital Social Innovation, Grand Prize
-- **같이놀자 (Play-along)** — two-player mini games for kids · App Store
+- **같이놀자 (Play Together)** — two-player mini games for kids · App Store
 - **책잇슈 (Book Issue)** — books & libraries inside KakaoTalk · Kakao AGENTIC PLAYER 10, Gold
 - **키즈허브 (Kids Hub)** — parenting info as MCP tools · Kakao MCP Player 10, 3rd
 
